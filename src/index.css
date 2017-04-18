@@ -1,0 +1,67 @@
+body {
+  margin: 5px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.recharts-wrapper {
+    display: inline-block;
+}
+
+.panel, .panel-default{
+    display: inline-block;
+    background-color: #fcfcfc;
+}
+
+.panel-default {
+    margin-left: 2px;
+    border-radius: 5px;
+    border-width: thin;
+    border: solid 1px #fafafa;
+    padding: 5px;
+}
+
+.panel-heading {
+    font-size: 1.2em;
+    color: #838383;
+    font-weight: bold;
+}
+
+.sm-text {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.lg-text {
+    text-align: center;
+    font-size: 4em;
+}
+
+.info {
+    color: #ddd;
+}
+
+.warning {
+    color: #ffcc00;
+}
+
+.danger {
+    color: #e75f5f;
+}
+
+.section-header {
+    color: #3D8EB9;
+}
+
+.page-header {
+    color: #475577;
+}
+
+.hor-line {
+    margin: 2px;
+    height: 1px;
+}
+
+.section-heading {
+    height: 200px;
+}
